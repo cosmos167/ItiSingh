@@ -1,3 +1,6 @@
+// This page registers the user for the app and saves the user info in database
+// If the user is already presents then its alerta that the email is already registered
+
 <?php
 require_once('configdb.php');
 ?>
