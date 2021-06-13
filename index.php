@@ -1,3 +1,5 @@
+// This page takes the login info and then authenticates it 
+// then if user info is present in database, his page takes the user to its profile...
 <?php
 require_once('configdb.php');
 ?>
