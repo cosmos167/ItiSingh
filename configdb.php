@@ -1,3 +1,4 @@
+//  this file makes the connection with server and alerts us with the server connection state
 <?php
 
 $db_server="localhost";
